@@ -3,6 +3,7 @@ A structured milestone roadmap to help you build the app in small, manageable ph
 
 ---
 
+- [ ] Milestone 0
 ## **Milestone 0 — Project Setup (Foundation)**
 **Goal:** Prepare all environments, repos, CI/CD, and folder structure.
 - Initialize React Native (TypeScript) project
@@ -15,6 +16,7 @@ A structured milestone roadmap to help you build the app in small, manageable ph
 
 ---
 
+- [ ] Milestone 1
 ## **Milestone 1 — Minimal Working App (MVP)**
 **Goal:** User can sign up, log in, and create a basic invoice without AI.
 ### **Frontend (RN)**
@@ -33,6 +35,7 @@ A structured milestone roadmap to help you build the app in small, manageable ph
 
 ---
 
+- [ ] Milestone 2
 ## **Milestone 2 — Invoice Sharing + Recipient Flow**
 **Goal:** Allow invoices to be sent to another person.
 ### **Backend**
@@ -50,6 +53,7 @@ A structured milestone roadmap to help you build the app in small, manageable ph
 
 ---
 
+- [ ] Milestone 3
 ## **Milestone 3 — Invoice Status Workflow**
 **Goal:** Both parties can mark invoices as paid.
 ### **Backend**
@@ -69,6 +73,7 @@ created → sent → receiver marks paid → sender confirms → both notified.
 
 ---
 
+- [ ] Milestone 4
 ## **Milestone 4 — AI Data Extraction (Images + Chat)**
 **Goal:** Add AI that extracts fields from an uploaded image or via conversation.
 ### **Backend**
@@ -89,6 +94,7 @@ AI can:
 
 ---
 
+- [ ] Milestone 5
 ## **Milestone 5 — PDF Improvements + History**
 **Goal:** Make invoices professional and stored properly.
 ### **Backend**
@@ -103,6 +109,7 @@ AI can:
 
 ---
 
+- [ ] Milestone 6
 ## **Milestone 6 — Subscription System (Monthly + Yearly)**
 **Goal:** Monetization.
 ### **Backend**
@@ -117,6 +124,7 @@ AI can:
 
 ---
 
+- [ ] Milestone 7
 ## **Milestone 7 — Polish + Release**
 **Goal:** Make the app ready for public use.
 - Onboarding screens
