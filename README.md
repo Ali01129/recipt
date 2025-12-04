@@ -147,12 +147,3 @@ AI can:
 8. **Polish + release**
 
 ---
-
-If you want, I can also generate:
-- complete folder structure
-- ERD/database schema
-- API routes for Nest backend
-- UI/UX screens flow
-- GitHub project board (tasks)
-- Timeline (30/60/90 days)
-
